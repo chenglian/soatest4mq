@@ -15,4 +15,4 @@ Created-By: 1.3.0 (Sun Microsystems Inc.)
 
 
 # Sample test case
-soatest4mq.xml
+Import soatest4mq.xml into SOATest
