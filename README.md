@@ -1,6 +1,8 @@
 # soatest4mq
 SOATest sample test case for MQ
 
+SOATest can be used to test IBM MQ messaging for convenience. All you need to do is to include the mq jar files that can be fond in IBM site and then import the sample test case in this repo.
+
 (Implementation-Title: WebSphere MQ Interface for Java
 Implementation-Version: 7.5.0.0 - p000-L120604)
 
